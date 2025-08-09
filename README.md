@@ -30,7 +30,7 @@ for option pricing in a Front-Office environment.
 
 - 🇻🇳 **3 months** at *ekino Vietnam* – backend HR platform development
 - 🇺🇸 **3 months** at *UC San Diego* – exchange semester
-- ✈️ Recent travels: China, Thailand, Vietnam, South Korea  
+- ✈️ Recent travels: United States, China, Thailand, Vietnam, South Korea
 
 ---
 
